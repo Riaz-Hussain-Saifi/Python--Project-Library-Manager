@@ -49,9 +49,11 @@ streamlit run app.py
 ## Project Structure
 
 ```
-├── library_manager.py          # Main application file
+├── .python-version         # 3.12
+├── library_manager.py     # Main application file
 ├── library.json    # Saved library data (created after first use)
-├── pyproject.toml # Project dependencies
+├── pyproject.toml
+├── requirements.txt # Project dependencies
 └── README.md       # This file
 ```
 
